@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-const API_URL = "https://backend-kdkh.onrender.com/api/tasks/";
-fetch("https://backend-kdkh.onrender.com/api/tasks/")
-axios.get("https://backend-kdkh.onrender.com/api/tasks/")
+const API_URL = https://fastapi-backend-axyb.onrender.com/docs";
+fetch("https://fastapi-backend-axyb.onrender.com/docs")
+axios.get("https://fastapi-backend-axyb.onrender.com/docs")
 
 
 function App() {
